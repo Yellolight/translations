@@ -1139,55 +1139,55 @@ cut.racer2racer.resp.4,О нет, это не я, кто проткнул тво
 # {0} will be an insult (like clown)
 cut.racer2racer.resp.5,Чё ты хотел, {0}?
 
-cut.gov2racer.greet_resp.1,{0}, yes, please come in!
-cut.gov2racer.greet_resp.2,{0}, I've been expecting you.
-cut.gov2racer.greet_resp.3,Please sit down and listen carefully.
+cut.gov2racer.greet_resp.1,{0}, да, приходи подалуйста!
+cut.gov2racer.greet_resp.2,{0}, я тебя ожидал.
+cut.gov2racer.greet_resp.3,Пожалуйста присядь и слушай внимательно.
 # {0} Curse adjective - friggin cash
-cut.gov2racer.greet_resp.4,You would like to earn some extra {0} cash, wouldn't you?
+cut.gov2racer.greet_resp.4,Ты хотел заработать дополнительные {0} деньги, не так ли?
 # {0} Curse adjective - friggin cash
-cut.gov2racer.greet_resp.5,Let me guess, you would like to earn some extra {0} cash, wouldn't you?
+cut.gov2racer.greet_resp.5,Дай угадаю, ты хотел заработать дополнительные {0} деньги, да?
 
 # {0} - insult singular
-cut.call.1,Hey, you! {0}! Come over here.
+cut.call.1,Эй, ты! {0}! А ну иди сюда.
 # {0} - insult singular
-cut.call.2,Hey! {0}!
+cut.call.2,Эй! {0}!
 # {0} - name or title
-cut.call.3,{0}. I've been looking for you!
-cut.call.4,{0}, wait a moment, why are you in such a hurry?
-cut.call.5,So, we meet again.
+cut.call.3,{0}. Я тебя искал!
+cut.call.4,{0}, подожди, почему ты в спешке?
+cut.call.5,Так, вот мы и встретились снова.
 # {0} - insult singular
-cut.call.6,Oh, just the {0} I've been looking for
+cut.call.6,О, какой-то {0}. Я тебя искал.
 # {0} - racer name
-cut.call.7,It has been a while, {0}.
-cut.call.8,Greetings, {0}.
-cut.call.9,Welcome, {0}.
+cut.call.7,Это было пока-что, {0}.
+cut.call.8,Приветствую, {0}.
+cut.call.9,Добро пожаловать, {0}.
 # {0} - insult singular
-cut.call.10,Not you again, {0}, what do you want? But since you're here, I've got something for you.
+cut.call.10,Только не ты, {0}, чё ты хотел? Ну так как ты здесь, у меня есть что-то для тебя.
 
-cut.call.resp.1,What do you want?
+cut.call.resp.1,Что ты хотел?
 cut.call.resp.2,...
 # {0} - curse adjective (friggin point)
-cut.call.resp.3,Yeah, yeah, cut to the {0} point.
+cut.call.resp.3,Даа, даа, перейдём к {0} теме.
 # {0} - name or title
-cut.call.resp.4,Oh, such a pleasure to see you, {0}.
-cut.call.resp.5,Greetings, {0}.
-cut.call.resp.6,I've been needing a bit more cash lately, do you have anything I could do?
-cut.call.resp.7,Some of the drivers have been giving me a really rough time, think you could help me out?
-cut.call.resp.8,Do you have any sort of special event I can enter, something to boost the show's ratings?
+cut.call.resp.4,О, какое удовольствие встретить тебя, {0}.
+cut.call.resp.5,Привет, {0}.
+cut.call.resp.6,В последнее времч мне нужно немного денег, у вас есть что-нибудь, что я могу сделать?
+cut.call.resp.7,Некоторые из водил доставили мне действительно тяжелые времена, думаете, вы могли бы мне помочь?
+cut.call.resp.8,У тебя есть немного специального задания я мог бы сделать, что-то, чтобы ускорить рейтинг шоу?
 
 # {0} below is always government official name or title
-cut.end.player2gov.1,I'll see what I can do.
-cut.end.player2gov.2,Anything for you, dear {0}.
-cut.end.player2gov.3,Do I have a choice?
-cut.end.player2gov.4,Not again...
-cut.end.player2gov.5,Will this ever end?
-cut.end.player2gov.6,OK, OK, I got it.
-cut.end.player2gov.7,This is fine.
-cut.end.player2gov.8,Yes, sure, whatever.
-cut.end.player2gov.9,Fine, I'll try.
-cut.end.player2gov.10,I want to go home.
-cut.end.player2gov.11,Bye, {0}.
-cut.end.player2gov.12,Thank you so much for the opportunity!
+cut.end.player2gov.1,Посмотрим, на чтр я способен.
+cut.end.player2gov.2,Всё для тебя, дорогой {0}.
+cut.end.player2gov.3,А есть у меня выбор?
+cut.end.player2gov.4,Только не опять...
+cut.end.player2gov.5,Когда это закончится?
+cut.end.player2gov.6,Ладно, ладно, понял.
+cut.end.player2gov.7,Это нормально.
+cut.end.player2gov.8,Да, конечно, чтоб тебя.
+cut.end.player2gov.9,Хорошо, я попробую.
+cut.end.player2gov.10,Я хочу домой.
+cut.end.player2gov.11,До свидание, {0}.
+cut.end.player2gov.12,Большое спасибо за возможность!
 
 cut.end.player2racer.1,Sure man, it will be fun.
 # {0} - name or title
