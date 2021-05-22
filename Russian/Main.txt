@@ -524,143 +524,143 @@ dash.tip.reduce_1_lap,Обрать 1 круг
 dash.tip.reduce_5_laps,Убрать 5 кругов
 
 dash.tip.workshop_item,Предмет из Мастерской
-dash.tip.rand_time_attack,Random Time Attack session
-dash.tip.rand_race,Random quick race in unique procedurally generated location
-dash.tip.rand_battle,Random Car Battle with AI opponents in procedurally generated location
-dash.tip.mark_tips_unseen,Will mark all tips as unseen
-dash.tip.campaign_name_entry,Please use the keyboard or Randomize button above
-dash.tip.cloud_shadows_visible,Cloud shadows will still be visible
-dash.tip.not_affect_split_minimap,This setting does not affect split-screen minimap
-dash.tip.censorship,Will show #%$! instead of potentially offensive words
-dash.tip.discord_post,Post your leaderboard scores and uploaded mods to BRS Official Discord
-dash.tip.upgrade_available,Upgrade Available!
-dash.tip.voice_pitch_slider,Adjusts cutscene dialogue voice pitch
-dash.tip.file_on_computer,Choose a file on your computer
-dash.tip.player_num,Player {0}
-dash.tip.ai_skill,AI Skill: {0:0}%
-dash.tip.car_sprites_white,When editing sprites, keep car body white. Paint jobs are car independent.
-dash.tip.upload_car,Upload to Steam Workshop. Make sure you have set correct Max Speed in Parameters before uploading!
-dash.tip.reload_car,Use this after changing car sprites outside the game
-dash.tip.speed_index,Benchmark for relative quickness
-dash.tip.leaderboard_eligible,This track is eligible to have Leaderboards
-dash.tip.ghost_replay_available,Ghost Replay is available
-dash.tip.add_racer_btn,Add new racer (Human or AI)
-dash.tip.show_track_leaderboards,SHow Track Leaderboards
-dash.tip.new_race_session,Start a new race session
-dash.tip.race_weapons,Will add weapon zones along the track
-dash.tip.0_racers,Remove all recers except for the Player
-dash.tip.add_1_rnd_racer,Add 1 random racer
-dash.tip.add_10_rnd_racers,Add 10 random racers
-dash.tip.rnd_gen_btn,Will generate a random race track
+dash.tip.rand_time_attack,Случайная сессия Гонки на время
+dash.tip.rand_race,Случайная гонка в уникально генерированных локацих
+dash.tip.rand_battle,Бой машин с ИИ соперниками в уникально генерированных локацих
+dash.tip.mark_tips_unseen,Отмечать советы невидимыми
+dash.tip.campaign_name_entry,Пожалуйста, используйте калвиатуру или нажмите на "Случайно" ниже.
+dash.tip.cloud_shadows_visible,Тени облаков будут видны
+dash.tip.not_affect_split_minimap,Эта настройка не влияет на миникарту в разделенном экране
+dash.tip.censorship,Показывает #%$! вместо оскорбительных слов
+dash.tip.discord_post,Публикуют ваши очки в доске лидеров и выложенных модов в Оффициальном Discord сервере BRS
+dash.tip.upgrade_available,Улучшение доступно!
+dash.tip.voice_pitch_slider,Перемещает тональность голосов в диалоге с катсценами
+dash.tip.file_on_computer,Выберите файл на вашем ПК
+dash.tip.player_num,Игрок {0}
+dash.tip.ai_skill,Умение ИИ: {0:0}%
+dash.tip.car_sprites_white,При изменений спрайтов, оставьте кузов белым. Цвета машин независимы.
+dash.tip.upload_car,Выложить в Мастерской Steam. Убедитесь, что ваш набор настроен правильно максимальный скорость в параметрах перед публикаций!
+dash.tip.reload_car,Используйте это после изменений спрайтов вне игры
+dash.tip.speed_index,Эталон относительной скорости
+dash.tip.leaderboard_eligible,У этой трассы есть возможность иметь доску лидеров
+dash.tip.ghost_replay_available,Доступен повтор призрака
+dash.tip.add_racer_btn,Добавить нового гонщика (Человека или ИИ)
+dash.tip.show_track_leaderboards,Показать доску лидеров трассы
+dash.tip.new_race_session,Начать новую сессию гонок
+dash.tip.race_weapons,Добавляет зоны орудий по трассам
+dash.tip.0_racers,Убирает всех гонщиков, кроме Игрока.
+dash.tip.add_1_rnd_racer,Добавить 1 гонщика
+dash.tip.add_10_rnd_racers,Добавить 10 гонщиков
+dash.tip.rnd_gen_btn,Генерирует случайную трассу
 
 # Custom Race Dash
 
-dash.set_for_everyone,Set For Everyone
-dash.car,Car
-dash.racers,Racers
-dash.search_for_track,Search for Track
-dash.randomize_prompt,Click "Generate"<br>To randomize some tracks
-dash.race_options,Race Options
-dash.race_mode,Race Mode
-dash.demo_mode,Demo Mode
-dash.demo_mode.tip,AI will drive instead of player
-dash.opponent_skill,Opponent Skill
-dash.start_race,Start Race
-dash.race_in_x,Race in {0}
-dash.battle_in_x,Battle in {0}
-dash.time_attack_in_x,Time Attack in {0}
-dash.x_to_select,{0} to select
-dash.add_player,Add Player
-dash.tracks_full_screen.tip,Toggle Full Screen View
+dash.set_for_everyone,Набор всем
+dash.car,Автомобиль
+dash.racers,Гонщики
+dash.search_for_track,Искать по Трассам
+dash.randomize_prompt,Нажмите на "Генерировать"<br>чтобы создать трасчы случайно
+dash.race_options,Опция гонки
+dash.race_mode,Режим гонки
+dash.demo_mode,Режим демонстраций
+dash.demo_mode.tip,ИИ могу водит в зависимости от Игрока
+dash.opponent_skill,Умение Соперника
+dash.start_race,Начать гонку
+dash.race_in_x,Гонка через {0}
+dash.battle_in_x,Бой через {0}
+dash.time_attack_in_x,Гонка на время через {0}
+dash.x_to_select,{0} чтобы выбрать
+dash.add_player,Добавить Игрока
+dash.tracks_full_screen.tip,Переключить полноэкранный режим
 
 # Rewards
 
-rew.car_unlock,Car Unlocked: {0}
-rew.total_pts,Total Points
-rew.dmg_taken,Damage Taken
-rew.dmg_given,Damage Given
-rew.unused_nitro,Unused Nitro
-rew.corner_cut,Corner Cutting
-rew.good_photos,Quality Photos Taken
-rew.close_calls,Close Calls
-rew.survival_bonus,Survival Bonus
-rew.place,{0} Place
+rew.car_unlock,Машина разблокирована: {0}
+rew.total_pts,Всего очков
+rew.dmg_taken,Урон получен
+rew.dmg_given,Урон нанесен
+rew.unused_nitro,Неиспользовано Нитро
+rew.corner_cut,Поворотов срезано
+rew.good_photos,Качественных фото сделан
+rew.close_calls,Близких столкновений
+rew.survival_bonus,Бонус за выживание
+rew.place,{0} позиция
 rew.dnf,DNF
-rew.pts,{0} pts
-rew.ch.unknown,Unknown Challenge
-rew.ch.success,SUCCESS: {0}
-rew.ch.fail,FAIL: {0}
-rew.lethal,Lethal Accidents
-rew.most_lethal,Most Lethal Accidents
-rew.frags,Frags
-rew.jumps,Ramp Jumps
-rew.longest_jump,Longest Jump
-rew.drifts,Drifts
+rew.pts,{0} очков
+rew.ch.unknown,Неизвестный вызов
+rew.ch.success,УСПЕХ: {0}
+rew.ch.fail,ПРОВАЛ: {0}
+rew.lethal,Летальных происшедствий
+rew.most_lethal,Самое летальное происшедствие
+rew.frags,Фрагов
+rew.jumps,Прыжков
+rew.longest_jump,Длинный прыжок
+rew.drifts,Дрифтов
 # Personal
-rew.longest_drift,Longest Drift
-rew.most_drifts,Most Drifts
+rew.longest_drift,Длинный дрифт
+rew.most_drifts,Большинство дрифтов
 # Among everyone
-rew.most_longest_drift,Most Longest Drift
-rew.level_up,Level Up
-rew.aero_up,Aero Upgrade Unlocked
-rew.engine_up,Engine Upgrade Unlocked
-rew.turbo_up,Turbo Upgrade Unlocked
-rew.gears_up,Transmission Upgrade Unlocked
-rew.grip_up,Grip Upgrade Unlocked
-rew.level_x,Level {0}
-rew.paint_jobs,Unlocked New Paint Jobs
+rew.most_longest_drift,Самый длинный дрифт
+rew.level_up,Новый уровень
+rew.aero_up,Улучшение Аэро открыто
+rew.engine_up,Улучшение Двигателя открыта
+rew.turbo_up,Улчшение Турбо открыто
+rew.gears_up,Улучшение Трансмиссий открыта
+rew.grip_up,Улучшение Сцепления открыта
+rew.level_x,Уровень {0}
+rew.paint_jobs,Открыта новая покраска
 
 # Car Stats
 
 # Keep these very short! Max 10 characters!
-car.stat.speed_idx,Speed Idx
-car.stat.top_speed,Top Speed
-car.stat.power,Power
-car.stat.mass,Mass
-car.stat.health,Health
-car.stat.steering,Steering
-car.stat.grip,Grip
-car.stat.shift_time,Shift Time
+car.stat.speed_idx,Инд. скор.
+car.stat.top_speed,Макс. ск.
+car.stat.power,Мощность
+car.stat.mass,Масса
+car.stat.health,Броня
+car.stat.steering,Управ.
+car.stat.grip,Сцеп.
+car.stat.shift_time,Время пер.
 
 # Car Upgrades
 
 # Short version
-car.upgrade.engine,Engine
-car.upgrade.turbo,Turbo
-car.upgrade.gears,Gears
-car.upgrade.aero,Aero
-car.upgrade.grip,Tires
+car.upgrade.engine,Двиг.
+car.upgrade.turbo,Турбо
+car.upgrade.gears,КПП
+car.upgrade.aero,Аэро.
+car.upgrade.grip,Шины
 
-car.upgrade.engine.title,Engine Upgrade
-car.upgrade.turbo.title,Turbocharger Upgrade
-car.upgrade.gears.title,Transmission Upgrade
-car.upgrade.aero.title,Aerodynamics Upgrade
-car.upgrade.grip.title,Grip & Handling Upgrade
+car.upgrade.engine.title,Улучшение Двигателя
+car.upgrade.turbo.title,Улучшение Турбонадува
+car.upgrade.gears.title,Улучшение Трансмиссий
+car.upgrade.aero.title,Улучшение Аэродинамики
+car.upgrade.grip.title,Улучшение Сцепления и Управления
 
-car.upgrade.engine.tip,Adds raw power to your Engine
-car.upgrade.turbo.tip,Makes speed boosts more effective
-car.upgrade.gears.tip,Reduces gear shift time
-car.upgrade.aero.tip,Improves top speed and grip
-car.upgrade.grip.tip,Improves grip and handling
+car.upgrade.engine.tip,Добавляет резвость вашего двигателя
+car.upgrade.turbo.tip,Делает ускорение эффективным
+car.upgrade.gears.tip,Укорачивает время переключения
+car.upgrade.aero.tip,Улучшает макс. скорость и сцепление
+car.upgrade.grip.tip,Улучшает сцепление и управляемость
 
 # Racer Profile
 
-racer.last_races,Last Races
-racer.no_data,No Data
-racer.level,Racer Level
-racer.races_attempted,Races Attempted
-racer.races_won,Races Won
-racer.peds_hit,Pedestrians Hit
-racer.times_drifted,Times Drifted
+racer.last_races,Последнее
+racer.no_data,Нет данных
+racer.level,Уровень гонщика
+racer.races_attempted,Попыток гонок
+racer.races_won,Побед в гонках
+racer.peds_hit,Убит пешеходов
+racer.times_drifted,Кол-во дрифтов
 
-racer.title.rookie,Rookie
-racer.title.semi_pro,Semi Pro
-racer.title.pro,Professional
-racer.title.veteran,Veteran
-racer.title.master,Master
-racer.title.grand_master,Grand Master
-racer.title.legend,Legendary
-racer.title.epic,Epic
+racer.title.rookie,Новичок
+racer.title.semi_pro,Полу-про
+racer.title.pro,Професионал
+racer.title.veteran,Ветеран
+racer.title.master,Мастер
+racer.title.grand_master,Высший мастер
+racer.title.legend,Легенда
+racer.title.epic,Эпичный
 
 # Car Paint
 
@@ -681,81 +681,81 @@ paint.open_custom_folder,Open OS folder for custom paint jobs
 
 # Pedestrian Mode
 
-ped.close_calls,Close Calls
-ped.photos,Photos
-ped.good_photos,Good Photos
-ped.earned_cash,Earned Cash
+ped.close_calls,Близких столкновений
+ped.photos,Фотографий
+ped.good_photos,Хороших фото
+ped.earned_cash,Заработано
 
 # Race mode
 
-race.paused.by,Paused by {0}
-race.you_have_a_challenge,You Have a Challenge
-race.btn.exit,Exit Race
-race.btn.exit_desktop,Exit To Desktop
-race.btn.restart,Restart
-race.btn.photo_mode,Photo Mode
-race.btn.speed_up,Speed Up
-race.btn.end,End Race
-race.finished,Race Finished
-race.waiting,Waiting ({0:0}s)
+race.paused.by,{0} нажал на паузу
+race.you_have_a_challenge,У тебя вызов
+race.btn.exit,Да пошли вы!
+race.btn.exit_desktop,С меня хватит!
+race.btn.restart,REEстарт
+race.btn.photo_mode,Фото режим
+race.btn.speed_up,Перемотка
+race.btn.end,Закончить
+race.finished,Гонка завершена, народ!
+race.waiting,Ожидание ({0:0}s)
 
 # Battle mode
 
-battle.finished,Battle Complete
+battle.finished,Бой завершен, народ!
 
 # Input Actions
 
-act.UIHorizontal,Horizontal Navigation
-act.UIVertical,Vertical Navigation
-act.UISubmit,Submit
-act.UICancel,Cancel
-act.ShowTutorial,Show Tip
-act.UICycleNext,Cycle Next
-act.UICyclePrev,Cycle Previous
-act.UIPlayerNext,Next Player
-act.UIPlayerPrev,Previous Player
+act.UIHorizontal,Горизонтальная навигация
+act.UIVertical,Вертикальная навигация
+act.UISubmit,Представить
+act.UICancel,Отмена
+act.ShowTutorial,Показать совет
+act.UICycleNext,След. цикл
+act.UICyclePrev,Пред. цикл
+act.UIPlayerNext,След. Игрок
+act.UIPlayerPrev,Пред. Игрок
 
-act.Steer,Steer
-act.Accelerate,Accelerate
-act.Brake,Brake
-act.Pause,Pause
-act.Camera,Toggle Camera
-act.Handbrake,Handbrake
-act.ResetCar,Reset Car
-act.Zoom,Toggle Zoom
-act.Nitro,Nitro
-act.Fire,Fire Weapon
-act.DropWeapon,Drop Weapon
+act.Steer,Руль
+act.Accelerate,Газ
+act.Brake,Тормоз
+act.Pause,Пауза
+act.Camera,Переключить камеру
+act.Handbrake,Ручной тормоз
+act.ResetCar,Восст. машину
+act.Zoom,Переключить масшта
+act.Nitro,Нитро
+act.Fire,Стрелять
+act.DropWeapon,Выбросить орудие
 
-act.EditorZoom,Zoom
-act.RotateObject,Rotate Object
-act.HorizontalPan,Horizontal Pan
-act.VerticalPan,Vertical Pan
-act.PlaceObject,Place Object
-act.CancelAction,Cancel Action
-act.Undo,Undo
-act.Redo,Redo
-act.CopyModifier,Copy Modifier
-act.DeleteModifier,Delete Modifier
+act.EditorZoom,Масштаб
+act.RotateObject,Вращать объект
+act.HorizontalPan,Гориз. панорама
+act.VerticalPan,Верт. панорама
+act.PlaceObject,Поместить объект
+act.CancelAction,Отменить действие
+act.Undo,Отменить
+act.Redo,Переделать
+act.CopyModifier,Коп. модификатор
+act.DeleteModifier,Удалить модификатор
 
-act.Walk,Walk
-act.Turn,Turn
-act.Take Photo,Take Photo
-act.Wave,Wave
-act.FastForward,Fast Forward
-act.PedZoom,Zoom
-act.PedPause,Pause
+act.Walk,Идти
+act.Turn,Повернуть
+act.Take Photo,Делать фото
+act.Wave,Махать
+act.FastForward,Перемотка
+act.PedZoom,Масштаб
+act.PedPause,Пауза
 
-act.MoveHorizontal,Move Horizontal
-act.MoveVertical,Move Vertical
-act.PhotoZoom,Zoom
-act.Rotate,Rotate
-act.PhotoModePhoto,Take Photo
-act.ToggleTime,Toggle Time
-act.ControlTimeScale,Time Scale
-act.ToggleUI,Toggle UI
-act.ExitPhotoMode,Exit Photo Mode
-act.AdjustMotionSpeed,Motion Speed
+act.MoveHorizontal,Двигать гориз.
+act.MoveVertical,Двигать верт.
+act.PhotoZoom,Масштаб
+act.Rotate,Вращать
+act.PhotoModePhoto,Делать фото
+act.ToggleTime,Переключить время
+act.ControlTimeScale,Шкала времени
+act.ToggleUI,Переключить ПИ
+act.ExitPhotoMode,Выйти из фото режима
+act.AdjustMotionSpeed,Скорость движения
 
 # Track editor
 
@@ -1069,32 +1069,32 @@ ced.exhaust_pos,Exhaust Position
 ### Lore Cutscene ### <-- please get this one very well, it's something people usually see within first 2 minutes of the game
 
 # In here {0} is the number of years and {1} is a date
-cut.lore.1,Hey! Aren't you that famous racer who got into a major accident {0} years ago? I know you've been in cryo-sleep since {1}, so let me bring you up to speed.
+cut.lore.1,Эй! Не ты тот самый знаменитый гонщик, который получил крупный инцидент {0} годом ранее? Я знаю, что ты был соней с {1}, так что дай мне рассказать тебе об этом.
 # {0} is a date
-cut.lore.2,There was this highly successful technology corporation, one you should know about, I just can’t remember its original name right now. It eliminated its competition and took control of the global economy back in {0}.
+cut.lore.2,Здесь было высоко технологичная корпарация, один из них ты должен знать, Я просто не помню настоящее название прямо сейчас. Это устранило всё соревноание и взял под контроль глобальной экономики в {0} году.
 # You should probably keep "Social Frontier of Activism" and SOFACT unchanged in your translation, for authenticity (company was not local after all)
-cut.lore.3,Instead of seeking scientific discoveries, the corporation had been strangling itself with increasingly complex internal policies. At some point they renamed it to "Social Frontier of Activism", or SOFACT.
-cut.lore.4,But eventually human nature took over. Activists were eliminated by force during an unexpected hostile takeover, and SOFACT, while still appearing as a friendly organization, now belongs to old school knuckleheaded thugs.
+cut.lore.3,Вместо поиска науки, корпарация сама себя душит со всё более сложной внутренней политики. В какой-то момент они переименовывают в "Social Frontier of Activism", или же SOFACT.
+cut.lore.4,Но к сожалению человеческая природа взял на себя. Активисты были устранены силами во время неожиданного враждебного захвата, и SOFACT, пока всё ещё повлялся дружелюбной организацией, теперь принадлежат олдскульным головорезам.
 # Please do not translate "Bloody Rally Show", or included it into parentheses next to translation. Example: "Kruvinojo Ralio Sou" (Bloody Rally Show)
-cut.lore.5,New leaders focused on profits. They kept investing into entertainment to maximize ad revenue, and "Bloody Rally Show" happens to be the entertainment of choice for most people these days.
-cut.lore.6,In Bloody Rally Show they are trying to recreate the golden age of rallying by using technologies of 1980s, ones from the infamous Group B. The amount of accidents is sky high, but social media influencers keep trying to get those hot action close-up photos.
-cut.lore.7,Don't lose your car my friend, or you may have to join the crowd. Now good luck, and godspeed! Oh, by the way, I didn't catch your name.
+cut.lore.5,Новые лидеры ореинтируется на прибыли. Они продолжал инвестировать в развлечениях, чтобы максимизировать доход от рекламы, и "Bloody Rally Show" появился быть программой развлечения выборов для большинства людей в эти дни.
+cut.lore.6,В Шоу Кровавого Ралли (Bloody Rally Show) они пытались воссоздать золотую эру ралли, используя технологиями 80-х, один из печально известный Группа Б. Количество происшествий колоссально высоки, но социальная медиа влиятельных людей продолжают, чтобы получить эти классные фотографий крупным планом.
+cut.lore.7,Не потеряй машину, мой друг, или ты присоединишься к толпе. Теперь удачи, и хорошего! О, кстати, как тебя зовут?
 
 ### Season Intro ### <-- please get this one very well too, it's part 2 of the main introduction
 
-cut.intro.1,Hey, rookie, you're late! I am the director of Bloody Rally Show. There is someone else I'd like you to meet.
+cut.intro.1,Эй, новичок, ты опоздал! Я директор Шоу Кровавого Ралли (Bloody Rally Show). Здесь ещё кое-кто, с кем я хотел бы тебя познакомить.
 # {0} will be a random insult word
-cut.intro.2,There you are, {0}. We brought you in since they say you know how to drive those old school race cars well. Now go make a good show!
-cut.intro.2_2,Oh, and we will ask you to do us some favors from time to time. Nothing big, don't worry about it!
-cut.intro.3,Wait a moment. Why do I have to do this for you?
+cut.intro.2,Это ты, {0}. Мы привели вас, потому что они говорят, что вы умеете водить эти олдскульные болиды. Теперь иди, и устрой хорошее шоу!
+cut.intro.2_2,О, и мы будем просить вас время от времени делать нам одолжения. Ничего большего, не волнуйся насчёт этого!
+cut.intro.3,Подождите. Зачем я должен делать это для вас?
 # {0} will be an insult, ${1} - sum of money, like $500000
-cut.intro.4,Because you owe us for the cryo-sleep, {0}! Repay ${1} at the end of any season and you're free to do anything you want. Until then your ass belongs to SOFACT.
-cut.intro.5,Looks like I don't have much choice... When do I start?
-cut.intro.6,Follow me rookie, I'll show you around. Let's meet the other racers first.
+cut.intro.4,Ты должен нам для сони, {0}! Погаси ${1} в конце любого сезона и ты будешь свободным, делая, что хочешь. До тех пор, пока твоя жопа принадлежит SOFACT'у.
+cut.intro.5,Походу у меня нет больше вариантов... Когда я начну?
+cut.intro.6,Следй за мной, новичок, я покажу тебе вокруг. Давай познакомлю с другими гонщиками.
 # {0} will be a plural insult (addressing all racers)
-cut.intro.7,So, {0}, you're back for more? I'm impressed!
-cut.intro.8,I still feel that there's something left for me to do, you know
-cut.intro.9,Happy you're back! Now follow me, there are some papers you need to sign.
+cut.intro.7,Итак, {0}, вы вернулись для большего? Я впечатлён!
+cut.intro.8,Я всё ещё чувствую, что мне нужно что-то сделать, ты знаешь.
+cut.intro.9,Счастлив, что ты вернулся! Теперь следуйте за мной, вот кое-какие бумаги, которые тебе нужно подписать.
 
 ### Racer died cutscene
 
