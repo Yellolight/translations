@@ -212,7 +212,7 @@ ustom_race.btn.continue_session,Продолжить Игру
 custom_race.btn.new_session,Новая Игра
 custom_race.btn.random_time_attack,Случайная Гонка на Время
 custom_race.btn.random_race,Случайная Гонка
-custom_race.btn.random_battle,Быстрая Битва
+custom_race.btn.random_battle,Быстрый Бой
 
 # Main Menu => Editors & Mods
 
@@ -253,7 +253,7 @@ leaderboard.no_score.race_now,Ты пока не поставил рекорд. 
 leaderboard.no_steam_connection,Соединение к сервисам Стима недоступно<br><br>Таблицы лидеров не работают
 leaderboard.btn.time_attack,Гонка на Время
 leaderboard.time_attack.tip,Таблицы лидеров этого трэка. Создай "Свою Гонку" с режимом "Гонка на Время" чтобы поставить свой собственный рекорд.
-leaderboard.refresh.tip,Обновить Таблицы напрямую из Стима
+leaderboard.refresh.tip,Обновить Таблицы напрямую из Steam
 
 # Leaderboard Names
 
@@ -363,8 +363,8 @@ settings.gameplay.camera_shake.light,Лёгкая
 settings.gameplay.camera_shake.off,Вкл
 settings.gameplay.vibration,Вибрация
 settings.gameplay.run_in_background,Работать в Фоновом Режиме
-settings.gameplay.auto_lock_mouse,Auto Lock Mouse
-settings.gameplay.auto_lock_mouse_tip,If you have multi-monitor setup and like to multitask, you may want to disable mouse locking. Chaing this requires restart.
+settings.gameplay.auto_lock_mouse,Блокировать мышь автоматически 
+settings.gameplay.auto_lock_mouse_tip,Если у вас есть установка с несколькими мониторами и вы любите многозадачность, вы можете отключить блокировку мыши. Для этого требуется перезагрузка.
 
 # Settings -> Audio
 
@@ -759,31 +759,31 @@ act.AdjustMotionSpeed,Скорость движения
 
 # Track editor
 
-tr.file,File
-tr.file.new,New
-tr.file.new.tip,Start editing a new track
-tr.file.open,Open
-tr.file.open.tip,Open a saved track
-tr.file.save,Save
-tr.file.save.tip,Save current track
-tr.file.undo,Undo
-tr.file.redo,Redo
-tr.file.share,Share
-tr.file.share.tip,Upload current track to Steam Workshop
-tr.file.delete,Delete
-tr.file.delete.tip,Delete a saved tack (you will choose which one)
-tr.file.exit,Exit
-tr.file.exit.tip,Exit to Main Menu
+tr.file,Файл
+tr.file.new,Новый
+tr.file.new.tip,Начать ред. новую трассу
+tr.file.open,Открыть
+tr.file.open.tip,Открыть сохр. трассу
+tr.file.save,Сохранить
+tr.file.save.tip,Сохранить тек. трассу
+tr.file.undo,Отменить
+tr.file.redo,Вернуть
+tr.file.share,Поделиться
+tr.file.share.tip,Выложить тек. трассу в Мастерской Steam
+tr.file.delete,Удалить
+tr.file.delete.tip,Удаляет сохр. трассу (выбераешь одну из них)
+tr.file.exit,Выход
+tr.file.exit.tip,Пойду погоняю.
 
-tr.grid,Grid
-tr.grid.toggle,Toggle
-tr.grid.toggle.tip,Show or hide the grid
-tr.grid.light,Light
-tr.grid.light.tip,Make the grid bright (useful on dark tracks)
-tr.grid.dark,Dark
-tr.grid.dark.tip,Make the grid dark (useful on bright tracks)
+tr.grid,Сетка
+tr.grid.toggle,Переключить
+tr.grid.toggle.tip,Показывает или спрятывает сетку
+tr.grid.light,Светлый
+tr.grid.light.tip,Делает сетку светлым (полезен в тёмных трассах)
+tr.grid.dark,Тёмный
+tr.grid.dark.tip,Делает сетку тёмным (полезен в светлых трассах)
 
-tr.gen,Generate
+tr.gen,Генерировать
 tr.gen.full_circuit,Complete Circuit
 tr.gen.full_circuit.tip,Generate a complete circuit race track curvature and objects. Will replace current track.
 tr.gen.full_open,Complete Open Road
@@ -1189,42 +1189,42 @@ cut.end.player2gov.10,Я хочу домой.
 cut.end.player2gov.11,До свидание, {0}.
 cut.end.player2gov.12,Большое спасибо за возможность!
 
-cut.end.player2racer.1,Sure man, it will be fun.
+cut.end.player2racer.1,Конечно чувак, будет весело.
 # {0} - name or title
-cut.end.player2racer.2,Anything for you, dear {0}.
+cut.end.player2racer.2,Все для тебя, дорогой {0}. 
 # {0} - insult singular (i.e. clown)
-cut.end.player2racer.3,It's on, {0}!
-cut.end.player2racer.4,Yes, finally something worthwhile.
-cut.end.player2racer.5,Oh, with pleasure!
-cut.end.player2racer.6,I'll think about it.
+cut.end.player2racer.3,Идёт, {0}!
+cut.end.player2racer.4,Да, хоть что-то стоящее.
+cut.end.player2racer.5,О, с удовольствием!
+cut.end.player2racer.6,Я подумаю.
 # {0} - racer name, {1} - curse word (i.e. crap)
-cut.end.player2racer.7,I don't like you {0}, but {1}, why not.
-cut.end.player2racer.8,Sure, whatever.
+cut.end.player2racer.7,Не нравлюсь тебя {0}, но {1}, почему бы нет.
+cut.end.player2racer.8,Конечно, что угодно.
 # {0} - singular insult
-cut.end.player2racer.9,Whatever, {0}.
+cut.end.player2racer.9,Что тебе угодно, {0}.
 
-cut.end.racer2player.1,Peace out.
-cut.end.racer2player.2,Allright, see you soon.
-cut.end.racer2player.3,I'll be watching you.
-cut.end.racer2player.4,Watch your six.
+cut.end.racer2player.1,Вали отсюда.
+cut.end.racer2player.2,Ладно, увидимся.
+cut.end.racer2player.3,Я слежу за тобой.
+cut.end.racer2player.4,Следи за своими шестью.
 # {0} will be an noun insult (clown)
-cut.end.racer2player.5,Let's go, time for you to eat my dust, {0}.
-cut.end.racer2player.6,Now let's hit the road.
-cut.end.racer2player.7,Less talking, more doing.
-cut.end.racer2player.8,Bye.
-cut.end.racer2player.9,Whatever.
+cut.end.racer2player.5,Погнали, тебе стоит пожрать мой пыль, {0}.
+cut.end.racer2player.6,Теперь сбей с дороги.
+cut.end.racer2player.7,Меньше слов, больше дел.
+cut.end.racer2player.8,Пока.
+cut.end.racer2player.9,Что угодно.
 # {0} will be an noun insult (clown)
-cut.end.racer2player.10,Whatever, {0}.
+cut.end.racer2player.10,Что угодно, {0}.
 
 # {0} - curse adjective (goddamn security)
-cut.end.gov.1,Now go, or I'll call {0} security.
+cut.end.gov.1,Теперь иди, или я позову {0} охрану.
 # {0} - insult singular (clown)
-cut.end.gov.2,Beat it, {0}.
+cut.end.gov.2,Сделайт это, {0}.
 # {0} - curse adverb (friggin leave)
-cut.end.gov.3,Please, {0} leave, and don't come back until you do it.
+cut.end.gov.3,Пожалуйста, {0} уходи, и не приходи до тех пор, пока ты не сделаешь.
 # {0} - insult singular (clown)
-cut.end.gov.4,Good bye, {0}.
-cut.end.gov.5,Good bye.
+cut.end.gov.4,Прощай, {0}.
+cut.end.gov.5,До свидание.
 
 cut.req.drift.1,Almost forgot. You have to do it sideways to make it count!
 cut.req.drift.2,Oh, and please do it while drifting, viewers enjoy it so much.
@@ -1320,7 +1320,7 @@ cut.punish.gov.cash.1,you will lose ${0}
 cut.punish.gov.cash.2,you will have to pay us ${0}
 cut.punish.gov.cash.3,your car insurance will go up by ${0}
 cut.punish.gov.cash.4,I will take ${0} from your bank account
-cut.punish.gov.cash.5,you will have to pay ${0} for 100 diamonds in this new mobile game I've just downloaded
+cut.punish.gov.cash.5,ты заплатишь ${0} за покупку 100 гемов и сундуков в этой хайповой игре, который я только скачал
 cut.punish.gov.car,I will personally blow your car to tiny pieces with a Pedestrian Cannon. No mechanic will manage to put it back together
 cut.punish.gov.pts,I will run this database query that will make you lose {0} points
 cut.punish.gov.rnd,I will do something so nasty, that they will have to cover it as breaking news, and belive me, your photo will be there
@@ -1458,33 +1458,33 @@ cut.ass.mid2.5,{0}. I hate those {1} so much.
 
 # These cannot be deleted, if you can't come up with something unique, just repeat some 
 # Singular forms
-cut.ass.target1.1,Hipster
+cut.ass.target1.1,Хипстер
 cut.ass.target1.2,Dumbass
-cut.ass.target1.3,Clown
-cut.ass.target1.4,Streamer
-cut.ass.target1.5,Content Creator
-cut.ass.target1.6,YouTuber
+cut.ass.target1.3,Клоун
+cut.ass.target1.4,Стример
+cut.ass.target1.5,Контентмейкер
+cut.ass.target1.6,Ютубер
 cut.ass.target1.7,Influencer
 cut.ass.target1.8,Broker
-cut.ass.target1.9,Liar
-cut.ass.target1.10,Enemy of SOFACT
-cut.ass.target1.11,Journalist
+cut.ass.target1.9,Лжец
+cut.ass.target1.10,Враг SOFACT
+cut.ass.target1.11,Журналист
 cut.ass.target1.12,Rebel
 cut.ass.target1.13,Misogynist
 
 # These cannot be deleted, if you can't come up with something unique, just repeat some 
 # Plural forms
-cut.ass.target2.1,Hipsters
+cut.ass.target2.1,Хипстеры
 cut.ass.target2.2,Dumbasses
-cut.ass.target2.3,Clowns
-cut.ass.target2.4,Streamers
-cut.ass.target2.5,Content Creators
-cut.ass.target2.6,YouTubers
+cut.ass.target2.3,Клоуны
+cut.ass.target2.4,Стримеры
+cut.ass.target2.5,Контентмейкеры
+cut.ass.target2.6,Ютуберы
 cut.ass.target2.7,Influencers
 cut.ass.target2.8,Brokers
-cut.ass.target2.9,Liars
-cut.ass.target2.10,Enemies of SOFACT
-cut.ass.target2.11,Journalists
+cut.ass.target2.9,Лжецы
+cut.ass.target2.10,Враги SOFACT
+cut.ass.target2.11,Журналисты
 cut.ass.target2.12,Rebels
 cut.ass.target2.13,Misogynists
 
